@@ -1,0 +1,25 @@
+Aplicação de excepções
+
+Resumo das alterações
+Ficheiro							Ação			Principais alterações
+CameraNotAvailableException.cs		Criar			Definir exceção personalizada
+GestureModel.cs	Modificar			Lançar			CameraNotAvailableException quando câmara indisponível
+GestureController.cs				Modificar		Capturar exceções, gerir repetições, expor evento OnErrorWithOptions
+MainWindow.xaml.cs					Modificar		Subscrever OnErrorWithOptions e mostrar diálogos com opções
+
+
+Model – lança exceções, mas não as trata. Sem conhecimento da View ou do Controller.
+
+Controller – captura exceções, decide a política de repetição e comunica através de eventos. Não contém lógica de interface.
+
+View – apenas exibe opções e devolve a escolha do utilizador. Sem lógica de negócio.
+
+Este desenho respeita a variante Curry & Grace (input na View) e mantém a independência entre componentes. As exceções personalizadas tornam o código mais inteligível e facilitam testes específicos.
+
+Vantagens da implementação
+
+Independência: O Model não conhece o significado dos gestos; apenas devolve objectos IGesture. O Controller decide a ação com base nas propriedades da interface.
+
+Adaptabilidade: Novos gestos (ex: RodarGesture) podem ser adicionados sem alterar o código existente.
+
+Manutenção: A lógica de decisão baseada em IsAvançar é muito mais robusta do que comparar strings.

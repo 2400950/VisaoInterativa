@@ -12,3 +12,17 @@ D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Soft
 D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.csproj.CoreCompileInputs.cache
 D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.exe
 D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.pdb
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\bin\Debug\VisaoInterativa.exe.config
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\bin\Debug\VisaoInterativa.exe
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\bin\Debug\VisaoInterativa.pdb
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.csproj.AssemblyReference.cache
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\Views\MainWindow.baml
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\Views\MainWindow.g.cs
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\App.g.cs
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa_MarkupCompile.cache
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.g.resources
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.Properties.Resources.resources
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.csproj.GenerateResource.cache
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.csproj.CoreCompileInputs.cache
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.exe
+D:\LEI - UAB\2ºAno\2º Semestre\21179 - Laboratório de Desenvolvimento de Software\Github\VisaoInterativa\VisaoInterativa\obj\Debug\VisaoInterativa.pdb
